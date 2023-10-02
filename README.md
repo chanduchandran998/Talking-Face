@@ -97,16 +97,6 @@ If you encounter any failcase, do not hesitate to leave an issue to let us know!
 
 4. The default network structure is 2 downsample layers, 6 Resblocks, and 2 upsample layers. You can modify it for best enhancing effect, just change the corresponding parameters at line 22. Also the crop size is adjustable at line 23(default is 96).
 
-## Citation
-Should you find this implementation useful, please add the following citation in your paper/open-sourced project:
-```
-@article{chan2018everybody,
-  title={Everybody dance now},
-  author={Chan, Caroline and Ginosar, Shiry and Zhou, Tinghui and Efros, Alexei A},
-  journal={arXiv preprint arXiv:1808.07371},
-  year={2018}
-}
-```
 
-## Acknowledgement
-This repo borrows heavily from [pix2pixHD](https://github.com/NVIDIA/pix2pixHD).
+
+
